@@ -42,5 +42,3 @@ To become a skilled software developer and work on real-world impactful projects
 ## ⚡ Fun Fact
 I am consistently improving my coding skills every day 🚀
 
-## ⚡ Fun Fact
-I am improving my coding skills daily 🚀
