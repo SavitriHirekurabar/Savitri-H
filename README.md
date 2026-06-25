@@ -1,44 +1,65 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Savitri;Aspiring+Software+Developer;Python+%7C+Machine+Learning+%7C+Django;Open+to+Opportunities">
+</p>
+
 # Hi 👋, I'm Savitri
 
-🎓 Recent Graduate  
-💻 Aspiring Software Developer  
-🚀 Interested in Python, Machine Learning, and Web Development  
+🚀 **Aspiring Software Developer | Python | Machine Learning | Django**  
+🎓 Recent Graduate with a strong interest in building intelligent, real-world applications  
 
 ---
 
-## 🔧 Skills
-- Python
-- HTML, CSS
-- Django (Learning)
-- Machine Learning Basics
+## 💡 About Me
+- 💻 Passionate about **Machine Learning and Web Development**
+- 🌱 Currently enhancing skills in **Django, Advanced Python, and Data Structures**
+- 🎯 Focused on building **scalable and impactful solutions**
+- 📌 Actively seeking **entry-level opportunities in software development**
 
 ---
 
-## 📌 Projects
-### ❤️ Heart Disease Prediction
-- Built using Machine Learning
-- Currently adding Django backend and frontend
+## 🛠️ Tech Stack
+
+- Python 🐍  
+- HTML, CSS 🌐  
+- Django ⚙️  
+- Git & GitHub 🔧  
 
 ---
 
-## 📚 Currently Learning
-- Advanced Python
-- Django Framework
-- Data Structures & Algorithms
+## 📌 Featured Projects
+
+### 🧠 Personalized Learning Path Generator
+- Developed a Machine Learning-based system to recommend customized learning paths  
+- Analyzes user preferences and performance data  
+- Improves learning efficiency and engagement  
+
+### 💰 Dynamic Pricing Model using Machine Learning
+- Built a predictive model to adjust pricing based on demand  
+- Uses data analysis and ML techniques  
+- Simulates real-world pricing strategies  
 
 ---
 
-## 🎯 Career Goal
-To become a skilled software developer and work on real-world impactful projects.
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavitriHirekurabar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavitriHirekurabar&layout=compact)
 
 ---
 
-## 📫 Contact Me
-- Email: savitrihirekurabar126@gmail.com
-- LinkedIn: https://www.linkedin.com/savitrihirekurabar
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SavitriHirekurabar)
 
 ---
 
-## ⚡ Fun Fact
-I am consistently improving my coding skills every day 🚀
+## 📫 Connect With Me
 
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: your-link  
+
+---
+
+## ⚡ Professional Statement
+Committed to continuous learning and applying technical skills to solve real-world problems efficiently.
