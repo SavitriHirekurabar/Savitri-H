@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Savitri;Aspiring+Software+Developer;Python+%7C+Machine+Learning+%7C+Django;Open+to+Opportunities">
 </p>
 
-# Hi 👋, I'm Savitri
 
 🚀 **Aspiring Software Developer | Python | Machine Learning | Django**  
 🎓 Recent Graduate with a strong interest in building intelligent, real-world applications  
@@ -56,8 +55,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-link  
+- 📧 Email: savitrihirekurabar126@gmail.com 
+- 💼 LinkedIn: [your-link](https://linkedin.com/SavitriHirekurabar)  
 
 ---
 
